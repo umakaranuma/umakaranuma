@@ -1,6 +1,6 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Umakaran Ampigaipagan</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate mobile application developer from Srilanka</h3>
 <img align"right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umakaranuma&label=Profile%20views&color=0e75b6&style=flat" alt="umakaranuma" /> </p>
