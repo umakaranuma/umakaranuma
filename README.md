@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umakaranuma&label=Profile%20views&color=0e75b6&style=flat" alt="umakaranuma" /> </p>
 
-- 🔭 I’m currently working on **AR base showroom application & Fuel application**
+- 🔭 I’m currently working as Mobile Developer at Apptimustech (pvt) ltd.**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **umakaranuma1126@gmail.com**
 
