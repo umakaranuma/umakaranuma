@@ -15,7 +15,7 @@
 - 🔭 Currently working as a **Software Engineer (Flutter & Django)** at **Apptimus Tech (Pvt) Ltd.**  
 - 🌱 Expanding expertise in **backend development, cloud deployment & scalable APIs**  
 - 🛠️ Creator of **2 Flutter packages** on Pub.dev & **1 Python package** on PyPI  
-- 👨‍💻 Delivered **4+ production-grade projects** including **chat apps, e-learning, and digital insurance platforms**  
+- 👨‍💻 Delivered **6+ production-grade projects** including **chat apps, e-learning, and digital insurance platforms**  
 - 📫 Reach me at **umakaranuma1126@gmail.com**  
 - ⚡ Fun fact: I enjoy solving complex problems and experimenting with new tech  
 
